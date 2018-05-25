@@ -30,7 +30,7 @@ a:hover {
 
 header {
     height:900px;
-    background-image: url(img/top_img.jpg);
+    background-image: url(top_img.jpg);
     background-size:cover;
     border-bottom: 5px solid #ff0000;
 }
